@@ -1,0 +1,25 @@
+.Header{
+    display:flex;
+    background-color: aqua;
+    justify-content: center;
+}
+.Content{
+    display:flex;
+    background-color: cadetblue;
+    justify-content: center;
+}
+.List{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: crimson;
+}
+.Item{
+    display:flex;
+    background-color: chartreuse;
+}
+.Footer{
+    display: flex;
+    justify-content: center;
+    background-color: darkmagenta;
+}
